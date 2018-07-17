@@ -7,7 +7,3 @@ The code is here as a demonstration of neural network concepts and is not meant 
 ## Dependencies
 
 * [Eigen 3.3.4](http://eigen.tuxfamily.org/index.php?title=Main_Page)
-
-## To build
-In the project root, make a folder called **third_party**
-Under this folder, symlink or copy the Eigen library to the folder **eigen-3.3.4_bin**
